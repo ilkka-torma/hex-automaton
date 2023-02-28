@@ -1,4 +1,4 @@
-# hex-automaton
+# Hex automaton
 A python script for computing minimum densities of periodic identifying codes on the infinite hexagonal grid.
 
 ## Usage
