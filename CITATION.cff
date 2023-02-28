@@ -1,0 +1,12 @@
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Salo"
+  given-names: "Ville"
+  orcid: "https://orcid.org/0000-0002-2059-194X"
+- family-names: "Törmä"
+  given-names: "Ilkka"
+  orcid: "https://orcid.org/0000-0001-5541-8517"
+title: "Hex automaton"
+version: 1.0
+date-released: 2023-02-28
+url: "https://github.com/github/hex-automaton"
